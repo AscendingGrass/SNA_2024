@@ -1,0 +1,23 @@
+{
+  "name": "datascraper",
+  "version": "1.0.0",
+  "description": "sna project data scraper",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "print(\"hello\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AscendingGrass/SNA_2024.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AscendingGrass/SNA_2024/issues"
+  },
+  "homepage": "https://github.com/AscendingGrass/SNA_2024#readme",
+  "dependencies": {
+    "google-play-scraper": "^10.0.0"
+  }
+}
